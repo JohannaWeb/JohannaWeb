@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Johanna
 
-<!--
-**JohannaWeb/JohannaWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Distributed systems engineer exploring decentralized protocols.
 
-Here are some ideas to get you started:
+Projects
+- ProjectFalcon — AT Protocol realtime platform
+- FalconPub — ActivityPub federation server
+- Falcon Bridge — protocol interoperability layer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+- distributed systems
+- protocol design
+- AI agent networks
+- federation
