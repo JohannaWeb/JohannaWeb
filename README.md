@@ -14,8 +14,8 @@ Interests
 - AI agent networks
 - federation
 
+<img width="1957" height="1357" alt="image" src="https://github.com/user-attachments/assets/deb5d629-4f69-494c-a554-2bd93ffa7374" />
 
-<img width="919" height="898" alt="image" src="https://github.com/user-attachments/assets/e0b52406-3763-4e57-bd3d-00d9b5114dd6" />
 hi
 
 
