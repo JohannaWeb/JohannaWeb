@@ -1,26 +1,35 @@
-👋 Hi, I'm Johanna
+## Support
+
+Support Juntos and Falcon development:  
+https://buymeacoffee.com/johannaweb
+
+---
+
+## Johanna
 
 Distributed systems engineer exploring decentralized protocols.
 
-Projects
-- ProjectFalcon — AT Protocol realtime platform
-- FalconPub — ActivityPub federation server
-- Falcon Bridge — protocol interoperability layer
-- Juntos - LGBT communities running on falcon and AT protocol technology
+---
 
-Interests
-- distributed systems
-- protocol design
-- AI agent networks
-- federation
+## Projects
 
-<img width="1957" height="1357" alt="image" src="https://github.com/user-attachments/assets/deb5d629-4f69-494c-a554-2bd93ffa7374" />
+- **ProjectFalcon** — AT Protocol realtime platform  
+- **FalconPub** — ActivityPub federation server  
+- **Falcon Bridge** — protocol interoperability layer  
+- **Juntos** — LGBT communities running on Falcon and AT Protocol technology  
 
-hi
+---
 
+## Interests
 
-CHECK IT LIVE:
+- Distributed systems  
+- Protocol design  
+- AI agent networks  
+- Federation  
+
+---
+
+## Live Demo
+
+Check it live:  
 https://project-falcon-91n9.vercel.app/
-
-Support juntos and falcon development at:
-https://buymeacoffee.com/johannaweb
