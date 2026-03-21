@@ -21,3 +21,6 @@ hi
 
 CHECK IT LIVE:
 https://project-falcon-91n9.vercel.app/
+
+Support juntos and falcon development at:
+https://buymeacoffee.com/johannaweb
