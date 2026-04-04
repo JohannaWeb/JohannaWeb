@@ -8,6 +8,7 @@ https://buymeacoffee.com/johannaweb
 ## Johanna
 
 Distributed systems engineer exploring decentralized protocols.
+My work combines formal Software Engineering training (2012–2017) with modern development tools, including LLM-assisted workflows
 
 ---
 
