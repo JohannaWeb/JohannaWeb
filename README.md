@@ -16,18 +16,13 @@ Distributed systems engineer exploring decentralized protocols.
 ## Projects
 
 - **ProjectFalcon** — AT Protocol realtime platform  
-- **FalconPub** — ActivityPub federation server  
-- **Falcon Bridge** — protocol interoperability layer  
-- **Juntos** — LGBT communities running on Falcon and AT Protocol technology  
+- **Aurora** — SOLO DEVELOPED RUST WEB BROSER USING BLITZ/DIOXUS CRATES AND V8 ENGINE SUPPORT VIA RUSTY_V8 . AURORA IS EXPLORATION OF THE BEST OF THE RUST BROWSER ECOSYSTEM DONE BY A SOLO DEVELOPER.
 
 ---
 
 ## Interests
 
-- Distributed systems  
-- Protocol design  
-- AI agent networks  
-- Federation  
+-Browser engines
 
 ---
 
